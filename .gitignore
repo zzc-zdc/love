@@ -1,0 +1,12 @@
+# IDE
+.qoder/
+
+# Build cache
+_astro/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Screenshots (verification temp files)
+screenshot-*.png
